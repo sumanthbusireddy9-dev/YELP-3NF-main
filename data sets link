@@ -1,0 +1,4 @@
+Data size is around 9GB so i am giving link to see the data sets that you can use for refference.
+Every data sets that i've used is in JSON format.
+So first you have to remove the null values usning python programming and tranforming them to csv using Amazon Glue And Athena .
+https://www.kaggle.com/datasets/yelp-dataset/yelp-dataset
